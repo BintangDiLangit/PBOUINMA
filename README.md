@@ -2,5 +2,5 @@
 
 Penggunaan
 
-=> git clone
-=> Masukkan folder ke netbeans/IDE
+git clone
+Masukkan folder ke netbeans/IDE
