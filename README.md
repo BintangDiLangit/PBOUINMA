@@ -1,6 +1,7 @@
-# PBOUINMA
+# PBO UINMA
+NICE to meet you :)
 
-Penggunaan
-
-git clone
-Masukkan folder ke netbeans/IDE
+**use**
+* open terminal/shell
+* git clone 
+* open the folder to your IDE
