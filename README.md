@@ -3,5 +3,5 @@ NICE to meet you :)
 
 **use**
 * open terminal/shell
-* git clone 
+* input => git clone https://github.com/BintangDiLangit/PBOUINMA.git
 * open the folder to your IDE
